@@ -1,0 +1,20 @@
+.banner {
+    background-image: url("../../../images/bannerbackground.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:110%;
+    background-position: -65px;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    text-align: center;
+}
+
+
+.search-btn{
+    color: white;
+    background-color: red;
+    font-size: small;
+    padding-left: 7%;
+    padding-right: 7%;
+    border: 1px solid white;
+}
